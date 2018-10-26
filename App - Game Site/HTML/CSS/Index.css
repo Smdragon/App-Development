@@ -1,0 +1,49 @@
+h1 {
+color: darkblue;
+font-family: Georgia;
+font-size: 50px;
+text-align: center;
+}
+
+body {
+  background-color: #38529e;
+}
+
+nav a {
+  width: 12rem;
+  height: 3rem;
+  font-size: 2rem;
+  display: block;
+  color: #7878f0;
+  text-decoration: none;
+  text-align: center;
+}
+
+#PageSelect {
+    background-color: #381296;
+    text-align: left;
+    float: right;
+    width: 100%;
+}
+
+section {
+  background-color: #381296;
+}
+
+h2 {
+  color: #1c0957;
+  font-family: Georgia;
+  font-size: 30px;
+  text-align: center;
+}
+
+p {
+  color: #1c0957;
+  font-family: Georgia;
+  font-size: 20px;
+  text-align: center;
+}
+
+nav li {
+  float: left;
+}
