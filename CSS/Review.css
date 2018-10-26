@@ -1,0 +1,58 @@
+h1 {
+color: darkblue;
+font-family: Georgia;
+font-size: 50px;
+text-align: center;
+}
+
+body {
+  background-color: #38529e;
+}
+
+nav a {
+  width: 12rem;
+  height: 3rem;
+  font-size: 2rem;
+  display: block;
+  color: #7878f0;
+  text-decoration: none;
+  text-align: center;
+}
+
+#PageSelect {
+    background-color: #381296;
+    text-align: left;
+    float: right;
+    width: 100%;
+    padding: 10px;
+}
+
+h2 {
+  color: #1786e8;
+  font-family: Georgia;
+  font-size: 30px;
+  text-align: center;
+}
+
+h3 {
+  color: #1786e8;
+  font-family: Georgia;
+  font-size: 25px;
+  text-align: left;
+}
+
+p {
+  color: #183f7a;
+  font-family: Georgia;
+  font-size: 19px;
+  text-align: left;
+  background-color: #1786e8;
+}
+
+#Review {
+  background-color: #2d3866;
+}
+
+nav li {
+  float: left;
+}
